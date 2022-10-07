@@ -1,0 +1,12 @@
+ Pitch: Users can search National Parks and save them to their own bucket lists.
+
+MVP:
+User can login in
+Save parks to bucket list
+Delete parks from bucket lists
+Read short descriptions of parks
+Mark if they have visited the park
+Add a note to their bucket list/ park
+
+Future features:
+Look up parks based on geological location (eastcoast, westcoast, alaska etc.)
